@@ -28,7 +28,6 @@ public class Manav {
 
 
         System.out.println("Toplam Tutar: " + toplamFiyat);
-
         scanner.close();
     }
 
