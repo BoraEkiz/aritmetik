@@ -16,6 +16,5 @@ public class çinzodya {
 
         System.out.println("Çin Zodyağı burcunuz: " + hayvan[index]);
 
-
     }
 }
