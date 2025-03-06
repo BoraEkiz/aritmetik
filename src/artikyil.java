@@ -12,6 +12,15 @@ public class artikyil {
         {
             System.out.printf("bu bir artık yildir"+rakam);
         }
+        else if (rakam%400==0){
+
+            System.out.printf("bu bir artık yildir"+rakam);
+        }
+        else if (rakam%100==0){
+
+            System.out.printf("bu bir artık yildir değildir"+rakam);
+        }
+
         else
         {
             System.out.println("bu bir artık yıl değildir");
